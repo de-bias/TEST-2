@@ -6,6 +6,8 @@
 [![all contributors](https://img.shields.io/badge/all_contributors-🌟-blue.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+[![All Contributors](https://img.shields.io/github/all-contributors/BatoolMM/TEST-Francisco?color=ee8449&style=flat-square)](#contributors)
+
 
 # Imago Template Repository
 
