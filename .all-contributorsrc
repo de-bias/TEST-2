@@ -1,6 +1,6 @@
 {
-  "projectName": "Template",
-  "projectOwner": "Imago-SDRUK",
+  "projectName": "TEST-2",
+  "projectOwner": "de-bias",
   "repoType": "github",
   "repoHost": "https://github.com",
   "repo": "https://github.com/Imago-SDRUK/Template",
@@ -15,9 +15,13 @@
       "name": "Batool",
       "avatar_url": "https://github.com/batoolMM.png",
       "profile": "https://github.com/batoolMM",
-      "contributions": ["code", "doc", "maintenance"]
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "badgeTemplate": "flat"
+  "badgeTemplate": "flat",
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
