@@ -1,6 +1,12 @@
 
 <img src="assets/Imago-logo.png" alt="Imago Logo" width="300"/>
 
+
+<!-- ALL-CONTRIBUTORS-BADGE:START -->
+[![all contributors](https://img.shields.io/badge/all_contributors-🌟-blue.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
 # Imago Template Repository
 
 Welcome to the Imago template repository!  
@@ -73,4 +79,13 @@ Thank you for helping us build open, collaborative, and impactful projects with 
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Contributors ✨
+
+This project uses the [All Contributors](https://allcontributors.org) specification.  
+See the table below for all people who have contributed to this project.
+
+<!-- ALL-CONTRIBUTORS-BOT:START -->
+
+<!-- ALL-CONTRIBUTORS-BOT:END -->
 
