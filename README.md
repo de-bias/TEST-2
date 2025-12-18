@@ -3,7 +3,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START -->
-[![all contributors](https://img.shields.io/badge/all_contributors-🌟-blue.svg?style=flat-square)](#contributors-)
+flat
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![All Contributors](https://img.shields.io/github/all-contributors/BatoolMM/TEST-Francisco?color=ee8449&style=flat-square)](#contributors)
@@ -76,6 +76,13 @@ Thank you for helping us build open, collaborative, and impactful projects with 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/batoolMM"><img src="https://github.com/batoolMM.png?s=100" width="100px;" alt="Batool"/><br /><sub><b>Batool</b></sub></a><br /><a href="https://github.com/de-bias/TEST-2/commits?author=batoolMM" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
