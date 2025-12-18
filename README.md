@@ -9,10 +9,17 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/BatoolMM/TEST-Francisco?color=ee8449&style=flat-square)](#contributors)
 
 
-# Imago Template Repository
+# debiasR R Package Repository
 
-Welcome to the Imago template repository!  
-This repository provides a starting point for open, collaborative outputs that support the use of satellite imagery.
+Welcome to the **debiasR** repository!  
+This package is part of the **DEBIAS** project — an international research initiative dedicated to understanding and correcting biases in human mobility data derived from mobile phone records.  
+
+The **debiasR** package provides statistical methods and tools to generate **correction factors** for population and mobility estimates, enabling researchers and practitioners to produce **bias-adjusted human mobility data** suitable for demographic, policy and scientific applications.
+
+The package implements a range of approaches including inverse penetration weighting, selection rate models, raking ratio adjustments, coefficient regression, and Bayesian multilevel modelling. 
+
+Our goal is to (1) increase the reliable and ethical use of mobile phone–derived mobility for scientific and policy applications; and, (2) ensure reproducibility, transparency and comparability in the use of mobile phone–derived mobility data across contexts.
+.
 
 ## 🚀 How to Use This Template
 
